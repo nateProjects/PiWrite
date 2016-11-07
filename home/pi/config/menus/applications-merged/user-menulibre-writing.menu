@@ -1,0 +1,18 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<!-- Do not edit manually - generated and managed by xdg-desktop-menu -->
+<Menu>
+    <Name>Applications</Name>
+<Menu>
+    <Name>menulibre-writing</Name>
+    <Directory>menulibre-writing.directory</Directory>
+    <Include>
+        <Filename>menulibre-test.desktop</Filename>
+	<Filename>writetype.desktop</Filename>
+	<Filename>trelby.desktop</Filename>
+	<Filename>focuswriter.desktop</Filename>
+	<Filename>retext.desktop</Filename>
+	<Filename>abiword.desktop</Filename>
+    </Include>
+</Menu>
+</Menu>

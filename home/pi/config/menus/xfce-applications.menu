@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Menu
+  PUBLIC '-//freedesktop//DTD Menu 1.0//EN'
+  'http://standards.freedesktop.org/menu-spec/menu-1.0.dtd'>
+<Menu>
+	<Name>Xfce</Name>
+	<DefaultAppDirs />
+	<DefaultDirectoryDirs />
+	<DefaultMergeDirs />
+	<Include>
+		<Category>X-Xfce-Toplevel</Category>
+	</Include>
+	<MergeFile type="parent">/etc/xdg/menus/xfce-applications.menu</MergeFile>
+	<Menu>
+		<Name>menulibre-writing</Name>
+		<Directory>menulibre-writing.directory</Directory>
+		<DirectoryDir>/home/pi/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>focuswriter.desktop</Filename>
+			<Filename>abiword.desktop</Filename>
+			<Filename>retext.desktop</Filename>
+			<Filename>writetype.desktop</Filename>
+			<Filename>trelby.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>menulibre-planning</Name>
+		<Directory>menulibre-planning.directory</Directory>
+		<DirectoryDir>/home/pi/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>cherrytree.desktop</Filename>
+			<Filename>kabikaboo.desktop</Filename>
+			<Filename>rednotebook.desktop</Filename>
+			<Filename>plume-creator.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>menulibre-references</Name>
+		<Directory>menulibre-references.directory</Directory>
+		<DirectoryDir>/home/pi/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>calibre-gui.desktop</Filename>
+			<Filename>chromium-browser.desktop</Filename>
+			<Filename>ebook-viewer.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>menulibre-distractions</Name>
+		<Directory>menulibre-distractions.directory</Directory>
+		<DirectoryDir>/home/pi/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>connectagram.desktop</Filename>
+			<Filename>klavaro.desktop</Filename>
+			<Filename>tanglet.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>chrome-apps</Name>
+		<Directory>chrome-apps.directory</Directory>
+		<DirectoryDir>/home/pi/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>chrome-djfldbljimkfcgejdcbccebbdkegnema-Default.desktop</Filename>
+			<Filename>chrome-lnbamhdhohempcpilbfmgbdlgefalanl-Default.desktop</Filename>
+			<Filename>chrome-polnpkehebjmdnkbocleaaapohpmonng-Default.desktop</Filename>
+			<Filename>chrome-hmjkmjkepdijhoojdojkdfohbdgmmhki-Default.desktop</Filename>
+			<Filename>chrome-hfgjlgjnpkpmnpojkkpfkogapiclopop-Default.desktop</Filename>
+			<Filename>chrome-fepbnnnkkadjhjahcafoaglimekefifl-Default.desktop</Filename>
+			<Filename>chrome-ldjhnilbgipkdpgpdpadfenmoighdebo-Default.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Accessories</Name>
+		<Directory>xfce-accessories.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>xfce4-about.desktop</Filename>
+			<Filename>xfce4-appfinder.desktop</Filename>
+			<Filename>Thunar-bulk-rename.desktop</Filename>
+			<Filename>xfce4-clipman.desktop</Filename>
+			<Filename>exo-file-manager.desktop</Filename>
+			<Filename>menulibre.desktop</Filename>
+			<Filename>mousepad.desktop</Filename>
+			<Filename>xfce4-notes.desktop</Filename>
+			<Filename>Thunar-folder-handler.desktop</Filename>
+			<Filename>globaltime.desktop</Filename>
+			<Filename>xfce4-run.desktop</Filename>
+			<Filename>xfce4-screenshooter.desktop</Filename>
+			<Filename>xfce4-sensors.desktop</Filename>
+			<Filename>xfce4-taskmanager.desktop</Filename>
+			<Filename>exo-terminal-emulator.desktop</Filename>
+			<Filename>Thunar.desktop</Filename>
+			<Filename>debian-uxterm.desktop</Filename>
+			<Filename>xarchiver.desktop</Filename>
+			<Filename>xfburn.desktop</Filename>
+			<Filename>debian-xterm.desktop</Filename>
+			<Filename>cherrytree.desktop</Filename>
+			<Filename>trelby.desktop</Filename>
+			<Filename>writetype.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Development</Name>
+		<Directory>xfce-development.directory</Directory>
+		<DirectoryDir>/home/pi/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>python2.7.desktop</Filename>
+			<Filename>python3.4.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Education</Name>
+		<Directory>xfce-education.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>writetype.desktop</Filename>
+			<Filename>klavaro.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Games</Name>
+		<Directory>xfce-games.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>connectagram.desktop</Filename>
+			<Filename>tanglet.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Graphics</Name>
+		<Directory>xfce-graphics.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>ristretto.desktop</Filename>
+			<Filename>ebook-viewer.desktop</Filename>
+			<Filename>display-im6.q16.desktop</Filename>
+			<Filename>display-im6.desktop</Filename>
+			<Filename>lrfviewer.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Network</Name>
+		<Directory>xfce-network.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>exo-mail-reader.desktop</Filename>
+			<Filename>exo-web-browser.desktop</Filename>
+			<Filename>chromium-browser.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Multimedia</Name>
+		<Directory>xfce-multimedia.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>xfce4-mixer.desktop</Filename>
+			<Filename>xfburn.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Office</Name>
+		<Directory>xfce-office.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>xfce4-dict.desktop</Filename>
+			<Filename>xfcalendar.desktop</Filename>
+			<Filename>globaltime.desktop</Filename>
+			<Filename>calibre-gui.desktop</Filename>
+			<Filename>ebook-viewer.desktop</Filename>
+			<Filename>focuswriter.desktop</Filename>
+			<Filename>kabikaboo.desktop</Filename>
+			<Filename>plume-creator.desktop</Filename>
+			<Filename>rednotebook.desktop</Filename>
+			<Filename>retext.desktop</Filename>
+			<Filename>abiword.desktop</Filename>
+			<Filename>epdfview.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Other</Name>
+		<Directory>xfce-other.directory</Directory>
+		<DirectoryDir>/home/pi/.local/share/desktop-directories</DirectoryDir>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>menulibre-new-launcher1.desktop</Filename>
+			<Filename>panel-desktop-handler.desktop</Filename>
+			<Filename>notification-daemon.desktop</Filename>
+			<Filename>geoclue-where-am-i.desktop</Filename>
+			<Filename>gcr-prompter.desktop</Filename>
+			<Filename>nm-applet.desktop</Filename>
+			<Filename>gcr-viewer.desktop</Filename>
+			<Filename>menulibre-new-launcher.desktop</Filename>
+			<Filename>menulibre-new-launcher2.desktop</Filename>
+			<Filename>menulibre-new-launcher3.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>System</Name>
+		<Directory>xfce-system.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>Thunar-bulk-rename.desktop</Filename>
+			<Filename>xfce4-session-logout.desktop</Filename>
+			<Filename>Thunar-folder-handler.desktop</Filename>
+			<Filename>xfce4-sensors.desktop</Filename>
+			<Filename>xfce4-taskmanager.desktop</Filename>
+			<Filename>Thunar.desktop</Filename>
+			<Filename>debian-uxterm.desktop</Filename>
+			<Filename>xfce4-terminal.desktop</Filename>
+			<Filename>debian-xterm.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Settings</Name>
+		<Directory>xfce-settings.directory</Directory>
+		<Menu>
+			<Name>menulibre-reference</Name>
+			<Directory>menulibre-reference.directory</Directory>
+			<DirectoryDir>/home/pi/.local/share/desktop-directories</DirectoryDir>
+			<Layout>
+				<Merge type="menus" />
+				<Merge type="files" />
+			</Layout>
+		</Menu>
+		<Menu>
+			<Name>Screensavers</Name>
+			<Directory>xfce-screensavers.directory</Directory>
+			<Layout>
+				<Merge type="menus" />
+				<Merge type="files" />
+			</Layout>
+		</Menu>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>xfce-settings-manager.desktop</Filename>
+			<Menuname>menulibre-reference</Menuname>
+			<Filename>xfce4-accessibility-settings.desktop</Filename>
+			<Filename>xfce-ui-settings.desktop</Filename>
+			<Filename>xfce-backdrop-settings.desktop</Filename>
+			<Filename>xfce-display-settings.desktop</Filename>
+			<Filename>thunar-settings.desktop</Filename>
+			<Filename>xfce-keyboard-settings.desktop</Filename>
+			<Filename>menulibre.desktop</Filename>
+			<Filename>xfce4-mime-settings.desktop</Filename>
+			<Filename>xfce-mouse-settings.desktop</Filename>
+			<Filename>xfce4-notifyd-config.desktop</Filename>
+			<Filename>xfce-xfcalendar-settings.desktop</Filename>
+			<Filename>panel-preferences.desktop</Filename>
+			<Filename>xfce4-power-manager-settings.desktop</Filename>
+			<Filename>exo-preferred-applications.desktop</Filename>
+			<Filename>thunar-volman-settings.desktop</Filename>
+			<Filename>xscreensaver-properties.desktop</Filename>
+			<Menuname>Screensavers</Menuname>
+			<Filename>xfce-session-settings.desktop</Filename>
+			<Filename>xfce4-settings-editor.desktop</Filename>
+			<Filename>xfce-wm-settings.desktop</Filename>
+			<Filename>xfce-wmtweaks-settings.desktop</Filename>
+			<Filename>xfce-workspaces-settings.desktop</Filename>
+			<Filename>nm-connection-editor.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Layout>
+		<Menuname>menulibre-writing</Menuname>
+		<Menuname>menulibre-planning</Menuname>
+		<Menuname>menulibre-references</Menuname>
+		<Menuname>menulibre-distractions</Menuname>
+		<Menuname>chrome-apps</Menuname>
+		<Separator />
+		<Menuname>Accessories</Menuname>
+		<Menuname>Development</Menuname>
+		<Menuname>Education</Menuname>
+		<Menuname>Games</Menuname>
+		<Menuname>Graphics</Menuname>
+		<Menuname>Network</Menuname>
+		<Menuname>Multimedia</Menuname>
+		<Menuname>Office</Menuname>
+		<Menuname>Other</Menuname>
+		<Menuname>System</Menuname>
+		<Menuname>Settings</Menuname>
+		<Separator />
+		<Filename>exo-web-browser.desktop</Filename>
+		<Filename>exo-file-manager.desktop</Filename>
+		<Filename>exo-mail-reader.desktop</Filename>
+		<Filename>exo-terminal-emulator.desktop</Filename>
+		<Filename>xfce4-run.desktop</Filename>
+		<Filename>xfce4-about.desktop</Filename>
+		<Filename>xfce4-session-logout.desktop</Filename>
+	</Layout>
+</Menu>

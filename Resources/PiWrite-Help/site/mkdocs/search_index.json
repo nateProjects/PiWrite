@@ -1,0 +1,74 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "PiWrite\n\n\nFor full documentation visit \npiwrite.com\n.\n\n\nOverview\n\n\nPiWrite is a writing suite for the Raspberry Pi. It differs from the standard Raspbian Linux in the following ways:\n\n\n\n\n\n\nIt offers 26 extra writing related applications, as well as additional themes, wallpapers, and other customizations.\n\n\n\n\n\n\nIt uses a specialized configuration of the XFCE desktop environment, which offers a simpler and quicker user interface.\n\n\n\n\n\n\nThe Launch Panel\n\n\nThis is the Launch Panel:\n\n\n\n\nUse this to access writing, planning and reference applications.\n\n\nIf you click on one of the launch icon's up-pointing arrows it will show the list of applications available under that category.\n\n\n\n\nApplications\n\n\nThese are some of the available applications and their purpose:\n\n\n\n\nAbiWord\n - Word processor \n(similar to Microsoft Word or LibreOffice Writer)\n\n\nCalibre\n - eBook reading and editing\n\n\nCherryTree\n - Note taking \n(similar to Evernote)\n\n\nFocus Writer\n - Distraction free writing \n(similar to Write!, OmmWriter, WriteMonkey, etc.)\n\n\nKabikaboo \n Plume Creator\n - Plotting and writing \n(similar to Scriviner, iAWriter, Storyist, etc.)\n\n\nRed Notebook\n - Journal \n(Similar to Day One, Journey, MacJournal, etc.)\n\n\nTrelby\n - Scripts and Screenplays \n(similar to First Draft, Fade In, Scripware etc.)\n\n\nWriteType\n - Essay writing software for students\n\n\n\n\nWeb Guide\n\n\nAlong with these applications there are web browser based applications:\n\n\n\n\n There is a directory of writing links ...\n\n\n\n\nSystem Tasks\n\n\nHere are some of the system tasks you may want to carry out:\n\n\nInternet Configuration\n\n\nYou can configure Internet access using the network preferences:\n\n\n\n\nUtilities\n\n\n\n\nYou can add sticky notes to the desktop\n\n\nYou can view a history of text you have copied and pasted\n\n\n You can look up words in the dictionary\n\n\nShutdown \n Restart\n\n\nYou can shutdown your Raspberry Pi, or Restart from Log Out menu.\n\n\n\n\nTransfer Documents\n\n\nYou can transfer your documents to a USB drive\n\n\n\n\nKeyboard Configuration\n\n\nYou can change the keyboard language\n\n\n\n\nDonations\n\n\nConsider helping support this project -\n\n\nDonate\n\n\nLinks\n\n\nAdditional online documentation is available at -\n\n\nXFCE Documentation\n\n\nRaspberry Pi Documentation\n\n\nThe source code for PiWrite is on \nGithub", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#piwrite", 
+            "text": "For full documentation visit  piwrite.com .", 
+            "title": "PiWrite"
+        }, 
+        {
+            "location": "/#overview", 
+            "text": "PiWrite is a writing suite for the Raspberry Pi. It differs from the standard Raspbian Linux in the following ways:    It offers 26 extra writing related applications, as well as additional themes, wallpapers, and other customizations.    It uses a specialized configuration of the XFCE desktop environment, which offers a simpler and quicker user interface.", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/#the-launch-panel", 
+            "text": "This is the Launch Panel:   Use this to access writing, planning and reference applications.  If you click on one of the launch icon's up-pointing arrows it will show the list of applications available under that category.", 
+            "title": "The Launch Panel"
+        }, 
+        {
+            "location": "/#applications", 
+            "text": "These are some of the available applications and their purpose:   AbiWord  - Word processor  (similar to Microsoft Word or LibreOffice Writer)  Calibre  - eBook reading and editing  CherryTree  - Note taking  (similar to Evernote)  Focus Writer  - Distraction free writing  (similar to Write!, OmmWriter, WriteMonkey, etc.)  Kabikaboo   Plume Creator  - Plotting and writing  (similar to Scriviner, iAWriter, Storyist, etc.)  Red Notebook  - Journal  (Similar to Day One, Journey, MacJournal, etc.)  Trelby  - Scripts and Screenplays  (similar to First Draft, Fade In, Scripware etc.)  WriteType  - Essay writing software for students", 
+            "title": "Applications"
+        }, 
+        {
+            "location": "/#web-guide", 
+            "text": "Along with these applications there are web browser based applications:    There is a directory of writing links ...", 
+            "title": "Web Guide"
+        }, 
+        {
+            "location": "/#system-tasks", 
+            "text": "Here are some of the system tasks you may want to carry out:", 
+            "title": "System Tasks"
+        }, 
+        {
+            "location": "/#internet-configuration", 
+            "text": "You can configure Internet access using the network preferences:", 
+            "title": "Internet Configuration"
+        }, 
+        {
+            "location": "/#utilities", 
+            "text": "You can add sticky notes to the desktop  You can view a history of text you have copied and pasted   You can look up words in the dictionary", 
+            "title": "Utilities"
+        }, 
+        {
+            "location": "/#shutdown-restart", 
+            "text": "You can shutdown your Raspberry Pi, or Restart from Log Out menu.", 
+            "title": "Shutdown &amp; Restart"
+        }, 
+        {
+            "location": "/#transfer-documents", 
+            "text": "You can transfer your documents to a USB drive", 
+            "title": "Transfer Documents"
+        }, 
+        {
+            "location": "/#keyboard-configuration", 
+            "text": "You can change the keyboard language", 
+            "title": "Keyboard Configuration"
+        }, 
+        {
+            "location": "/#donations", 
+            "text": "Consider helping support this project -  Donate", 
+            "title": "Donations"
+        }, 
+        {
+            "location": "/#links", 
+            "text": "Additional online documentation is available at -  XFCE Documentation  Raspberry Pi Documentation  The source code for PiWrite is on  Github", 
+            "title": "Links"
+        }
+    ]
+}
