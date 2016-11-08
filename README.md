@@ -12,7 +12,7 @@ PiWrite is a writing suite for the Raspberry Pi. It differs from the standard Ra
 
 * It uses a specialized configuration of the XFCE desktop environment, which offers a simpler and quicker user interface.
 
-![ScreenShot](Resources/Screenshots/example800x.png)
+![ScreenShot](Resources/ScreenShots/example800x.png)
 
 ## Installing
 
